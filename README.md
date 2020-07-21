@@ -1,7 +1,11 @@
-# Hari-DataScience-and-Machine-Learning-Basics
-<h3>The basics of DS and ML, written by me ;)</h3>
+# Hari-DataScience-and-Machine-Learning
+<h3>My Personal DS and ML repository</h3>
 
-<em> This is a repo for me to store the notes i take from various online Machine Learning courses. This is also the repo where i post 
-  solved notebooks of famous datasets in Kaggle.com </em>
- <p> I will be updating this repo with my solutions of different questions pretty frequently, so stay tuned :) </p>
+<p> What does this repo contain? </p>
+<ul>
+  <li> The notes I take from various online Machine Learning courses.
+  <li> Solved notebooks of famous datasets from Kaggle.com
+</ul>
+<p> Hmu with a thanks if my material was of use to you 
+<p><strong>I will be updating this repo with new stuff pretty frequently, so stay tuned :) </strong> </p>
   
