@@ -1,4 +1,3 @@
-# Hari-DataScience-and-Machine-Learning
 <h3>My Personal DS and ML repository</h3>
 
 <p> What does this repo contain? </p>
