@@ -8,3 +8,4 @@
 <p> Hmu with a thanks if my material was of use to you 
 <p><strong>I will be updating this repo with new stuff pretty frequently, so stay tuned :) </strong> </p>
   
+<em> Posting soon: My AndrewNG Machine Learning notes. So stay tuned for that xD </em>
